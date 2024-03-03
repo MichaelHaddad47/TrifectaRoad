@@ -18,11 +18,42 @@ Merging Python's computational logic with OpenCV's image processing capabilities
 ## Usage Guide
 <a name="inst1"></a>
 ### Installation
-1. Requirements: 
-- 
+1. Requirements:
+- Python 3.8 or newer
+- Numpy
+- OpenCV-Python
 
-2. Run below lines in your terminal
-<br><code>blabla</code><br><br><code>blabla</code>
+2. Run below lines in your terminal:
+
+First, check your Python version:
+```bash
+python --version
+```
+If Python is not installed, download and install it from [Python's official website](https://www.python.org/).
+
+Change to the project directory:
+```bash
+cd path/to/project/directory
+```
+
+Create and activate a virtual environment
+```bash
+python3 -m venv venv 
+source venv/bin/activate
+```
+
+Install the required Python packages:
+```bash
+pip install numpy
+pip install opencv-python-headless
+pip install opencv-python
+```
+NOTE: Do the above in the environement created to prevent errors!
+
+Run the car detection system:
+```bash
+python Car_Detection_System.py
+```
 
 <a name="demo"></a>
 ### Demonstration
