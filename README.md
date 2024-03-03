@@ -70,4 +70,5 @@ Soon
 ## License
 This project is licensed under the GPL-3.0 License. [License Details](../main/LICENSE)
 
-[Demo]: ./TEST.gif
+[Demo]: ./Car Detection Videos
+/Car Detection Test - GIF.gif
