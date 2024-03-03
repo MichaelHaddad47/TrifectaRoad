@@ -57,8 +57,9 @@ python Car_Detection_System.py
 
 <a name="demo"></a>
 ### Demonstration
-Soon
-![][Demo]
+
+![Demo](./Car%20Detection%20Videos/Car%20Detection%20Test%20-%20GIF.gif)
+
 
 <a name="cont"></a>
 ## Contributors
@@ -69,6 +70,3 @@ Soon
 <a name="lics"></a>
 ## License
 This project is licensed under the GPL-3.0 License. [License Details](../main/LICENSE)
-
-[Demo]: ./Car Detection Videos
-/Car Detection Test - GIF.gif
