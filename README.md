@@ -64,8 +64,8 @@ python Car_Detection_System.py
 <a name="cont"></a>
 ## Contributors
 - Michael Haddad : mhadd033@uottawa.ca
-- Nic
-- Gabby
+- Nicolas Maalouly : nmaal021@uottawa.ca
+- Gabriella El-Hajjar : gabriella.elhajjar09@gmail.com
 
 <a name="lics"></a>
 ## License
