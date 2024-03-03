@@ -68,6 +68,6 @@ Soon
 
 <a name="lics"></a>
 ## License
-This project is licensed under the GPL-3.0 License. [License Details](../main/LICENSE.md)
+This project is licensed under the GPL-3.0 License. [License Details](../main/LICENSE)
 
 [Demo]: ./TEST.gif
