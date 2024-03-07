@@ -58,7 +58,7 @@ python Car_Detection_System.py
 <a name="demo"></a>
 ### Demonstration
 
-![Demo](./Car%20Detection%20Videos/Car%20Detection%20Test%20-%20GIF.gif)
+![Demo](./Car%20Detection%20Videos/Car%20Detection%20Test.gif)
 
 
 <a name="cont"></a>
